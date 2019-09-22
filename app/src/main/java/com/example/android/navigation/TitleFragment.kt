@@ -24,7 +24,5 @@ class TitleFragment : Fragment() {
             view.findNavController().navigate(R.id.action_titleFragment_to_gameFragment)
         }
         return binding.root
-
-
     }
 }
